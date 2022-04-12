@@ -8,7 +8,7 @@ Window {
     height: 640
     visible: true
     id: mainWindow
-    title: qsTr("Task 3")
+    title: qsTr("Task 3 - Color & Font dialogs")
 
     ColorDialog{
         id: selected_color
