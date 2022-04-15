@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/trafficlight.png</file>
+        <file>TrafficCircle.qml</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
